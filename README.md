@@ -1,4 +1,4 @@
-# -III-Circulo-de-Alta-Magia
+# III Círculo de Alta Magia
 
 Este es el ámbito más elevado de la SCM, reservado para aquellos que han alcanzado el máximo nivel de compromiso y comprensión.
 
